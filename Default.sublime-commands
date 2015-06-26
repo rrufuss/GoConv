@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "GoConv: Go Simplified Chinese",
+        "command": "goconv",
+        "args": {"config": "t2s.json"}
+    },
+    {
+        "caption": "GoConv: Go Traditional Chinese",
+        "command": "goconv",
+        "args": {"config": "s2t.json"}
+    }
+]
